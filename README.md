@@ -1,5 +1,5 @@
 ## Eae Dev, me chamo richard prazer! 🖐️
-Sou apaixonado por tecnologia, Design da programação.
+Sou apaixonado por Design, isso me levou a ser design gráfico & Design de interfaces (FRONT-END)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rickdesign_txt/)
 
